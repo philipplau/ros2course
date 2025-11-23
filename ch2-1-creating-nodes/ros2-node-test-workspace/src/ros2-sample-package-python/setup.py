@@ -23,7 +23,7 @@ setup(
         ],
     },
     entry_points={
-        'console_scripts': [
+        'console_scripts': ['test_our_node = ros2_sample_package_python.sample_node:main',
         ],
     },
 )

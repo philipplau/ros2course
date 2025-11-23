@@ -1,0 +1,6 @@
+source;share/ros2-sample-package-python/hook/pythonpath.ps1
+source;share/ros2-sample-package-python/hook/pythonpath.dsv
+source;share/ros2-sample-package-python/hook/pythonpath.sh
+source;share/ros2-sample-package-python/hook/ament_prefix_path.ps1
+source;share/ros2-sample-package-python/hook/ament_prefix_path.dsv
+source;share/ros2-sample-package-python/hook/ament_prefix_path.sh

@@ -1,0 +1,15 @@
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ament_index/resource_index/package_run_dependencies/ros2-sample-package-cmake
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ament_index/resource_index/parent_prefix_path/ros2-sample-package-cmake
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/environment/ament_prefix_path.sh
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/environment/ament_prefix_path.dsv
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/environment/path.sh
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/environment/path.dsv
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/local_setup.bash
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/local_setup.sh
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/local_setup.zsh
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/local_setup.dsv
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/package.dsv
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ament_index/resource_index/packages/ros2-sample-package-cmake
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/cmake/ros2-sample-package-cmakeConfig.cmake
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/cmake/ros2-sample-package-cmakeConfig-version.cmake
+/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/package.xml
