@@ -1,0 +1,16 @@
+[0.014s] Invoking command in '/home/ubuntu/ros2course/ch2-2-defining-messages/build/example_messages': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python:/opt/ros/jazzy /usr/bin/cmake /home/ubuntu/ros2course/ch2-2-defining-messages/example_messages -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2course/ch2-2-defining-messages/install/example_messages
+[0.036s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.286s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[0.289s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.327s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.366s] -- Found rosidl_adapter: 4.6.6 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[0.369s] [31mCMake Error at /opt/ros/jazzy/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:95 (message):
+[0.370s]   rosidl_generate_interfaces() the passed file 'msg/ExampleNumbers.msg'
+[0.370s]   doesn't exist relative to the CMAKE_CURRENT_SOURCE_DIR
+[0.370s]   '/home/ubuntu/ros2course/ch2-2-defining-messages/example_messages'
+[0.370s] Call Stack (most recent call first):
+[0.370s]   CMakeLists.txt:16 (rosidl_generate_interfaces)
+[0.371s] 
+[0.371s] [0m
+[0.371s] -- Configuring incomplete, errors occurred!
+[0.375s] Invoked command in '/home/ubuntu/ros2course/ch2-2-defining-messages/build/example_messages' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python:/opt/ros/jazzy /usr/bin/cmake /home/ubuntu/ros2course/ch2-2-defining-messages/example_messages -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros2course/ch2-2-defining-messages/install/example_messages
